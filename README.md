@@ -71,3 +71,11 @@ Use these examples to start building your own application test code inside the s
 This repository has its submodule references updated shortly afk with minor version updates. When submodule updates take place a matching version tag is added tter the release of new, major releases of LittlevGL's core [lvgl](https://github.com/lvgl/lvgl) project. Occasionally it is updated to woro this repository.
 
 If you need to pull in bug fixes in more recent changes to the submodules you will have to update the references on your own. If source files are added or removed in the submodules then the visual studio project will likely need adjusting. See the commit log for examples of submodule updates and associated visual studio file changes to guide you.
+
+# Pinetime fork
+Simulator for Pinetime Watch faces in windows
+Original work from https://github.com/nscooling/lv_sim_vscode_sdl/tree/pinetime
+
+![Pinetime](img/pinetime.jpg "Pinetime in Windows")
+
+
