@@ -2,6 +2,7 @@
 
 ## Pinetime fork
 Simulator for Pinetime Watch faces in windows
+
 Original work from https://github.com/nscooling/lv_sim_vscode_sdl/tree/pinetime
 
 ![Pinetime](img/pinetime.png "Pinetime in Windows")
